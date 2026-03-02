@@ -1,1 +1,1 @@
-# Gestionnaire_de_fichiers_chiffr-s
+# Gestionnaire_de_fichiers_chiffrés
